@@ -25,4 +25,8 @@
         <grapheme>ScotlandMV</grapheme>
         <phoneme>ˈskɒtlənd.ˈmiːdiəm.weɪv</phoneme>
     </lexeme>
+    <lexeme>
+        <grapheme>CORS</grapheme>
+        <phoneme>Cross-Origin Resource Sharing</phoneme>
+    </lexeme>
 </lexicon>
