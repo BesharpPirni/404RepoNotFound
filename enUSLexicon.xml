@@ -17,4 +17,12 @@
         <grapheme>😀</grapheme>
         <alias>test emoji</alias>
     </lexeme>
+    <lexeme>
+        <grapheme>Scotland MV</grapheme>
+        <alias>ScotlandMV</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>ScotlandMV</grapheme>
+        <phoneme>ˈskɒtlənd.ˈmiːdiəm.weɪv</phoneme>
+    </lexeme>
 </lexicon>
