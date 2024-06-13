@@ -27,6 +27,6 @@
     </lexeme>
     <lexeme>
         <grapheme>CORS</grapheme>
-        <phoneme>Cross-Origin Resource Sharing</phoneme>
+        <alias>Cross-Origin Resource Sharing</alias>
     </lexeme>
 </lexicon>
