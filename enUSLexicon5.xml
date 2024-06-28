@@ -9,14 +9,6 @@
         <phoneme>bɛˈniːnji</phoneme>
     </lexeme>
     <lexeme>
-        <grapheme>test</grapheme>
-        <alias>working</alias>
-    </lexeme>
-    <lexeme>
-        <grapheme>Hello</grapheme>
-        <phoneme>hɛ.loˈ</phoneme>
-    </lexeme>
-    <lexeme>
         <grapheme>😀</grapheme>
         <alias>test emoji</alias>
     </lexeme>
