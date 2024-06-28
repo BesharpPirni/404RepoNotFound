@@ -10,16 +10,12 @@
         <alias>By the way</alias>
     </lexeme>
     <lexeme>
-        <grapheme>By the way</grapheme>
-        <alias>by the way</alias>
-    </lexeme>
-    <lexeme>
-        <grapheme>by the way</grapheme>
-        <alias>Benigni</alias>
-    </lexeme>
-    <lexeme>
         <grapheme>Benigni</grapheme>
         <phoneme>bɛˈniːnji</phoneme>
+    </lexeme>
+    <lexeme>
+        <grapheme>test</grapheme>
+        <alias>working</alias>
     </lexeme>
     <lexeme>
         <grapheme>😀</grapheme>
