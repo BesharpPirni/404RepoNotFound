@@ -10,6 +10,14 @@
         <alias>By the way</alias>
     </lexeme>
     <lexeme>
+        <grapheme>By the way</grapheme>
+        <alias>by the way</alias>
+    </lexeme>
+    <lexeme>
+        <grapheme>by the way</grapheme>
+        <phoneme>baɪ ðə weɪ</phoneme>
+    </lexeme>
+    <lexeme>
         <grapheme>Benigni</grapheme>
         <phoneme>bɛˈniːnji</phoneme>
     </lexeme>
